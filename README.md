@@ -1,5 +1,6 @@
 <h1 align="center">💪 AI Fitness Assistant 🤖</h1>
 
+<h2>New Repo Had To Be Created Due To Vapi disabled Connection With Webflow</h2>
 
 ## Highlights:
 
