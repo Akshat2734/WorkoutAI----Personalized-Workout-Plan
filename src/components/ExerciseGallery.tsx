@@ -3,7 +3,6 @@
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ChevronRight, Dumbbell, Target, HeartPulse, Armchair, Clock, Sparkles, ExternalLink } from "lucide-react";
-import Link from "next/link";
 import clsx from "clsx";
 
 /* ---------- Types ---------- */

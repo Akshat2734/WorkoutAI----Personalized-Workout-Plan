@@ -19,7 +19,6 @@ import {
 
 const ProfilePage = () => {
   const { user } = useUser();
-  const userId = user?.id as string;
 
   const allPlans = useQuery(
   api.plans.getUserPlans,
